@@ -1,0 +1,20 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.div{
+    margin-left: 20px;
+
+}
+.frameimg{
+    height: 250px;
+    width: 280px;
+  }
+.imageWert{
+    width: 280px;
+}
+.pictitel{
+    margin-left: 60px;
+    padding-right:15px;
+}

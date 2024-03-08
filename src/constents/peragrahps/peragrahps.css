@@ -1,0 +1,139 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.hrTage2px{
+    border: solid 2px;
+    margin-top: 30px;
+    width: 900px;
+    margin-left: 225px;
+}
+.mienFlex{
+    display: flex;
+}
+.manpicRadius{
+    border-radius: 50%;
+    margin-left: 225px;
+    margin-top: 25px;
+}
+.manName{
+    margin-left: 12px;
+    margin-top: 25px;
+}
+.picimformation{
+    margin-left: 12px;
+    margin-top: 6px;
+}
+.imageBoder{
+    border: gainsboro 1px solid;
+    width: 55px;
+    height: 35px;
+    margin-left: 545px;
+    margin-top: 25px;
+}
+.ImageMargin{
+      margin-left: 15px;
+      margin-top: 7px;
+}
+.imageBoder2{
+    border: gainsboro 1px solid;
+    width: 55px;
+    height: 35px;
+    margin-left: 0px;
+    margin-top: 25px;    
+}
+.peraMargin{
+    margin-left: 225px;
+    margin-top: 25px;
+    padding-right: 200px; 
+}
+.hTageMargin{
+    margin-left: 225px;
+    margin-top: 45px;   
+}
+.wingsImg{
+    margin-left: 180px;
+    width: 980px;
+    margin-top: 35px;
+}
+.imgbottompera{
+    text-align: center;
+}
+.peraTag{
+    margin-left: 225px;
+    margin-top: 25px;
+    padding-right: 200px; 
+}
+.h4tageList{
+    margin-left: 225px;
+    margin-top: 25px;
+}
+.AllUL{
+    margin-left: 245px;
+}
+.AllLI{
+    margin-top: 20px;
+    padding-right: 650px;
+}
+.loremTage{
+    margin-top: 20px;
+    margin-left: 225px;
+    padding-right: 610px;
+}
+.thankREADING{
+    margin-top: 20px;
+    margin-left: 225px;
+}
+.buttonFLEx{
+    display: flex;
+}
+.buttonBoder{
+    margin-top: 20px;
+    margin-left: 225px;
+    background-color: white; 
+    border: gainsboro 1px solid;
+    width: 400px;
+    height: 50px;
+}
+.buttonImage{
+    margin-left: 130px;
+    margin-top: 18px;
+}
+.imagOppositePtage{
+    display: flex;
+}
+.shareON{
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.buttonBoder2{
+    background-color: white; 
+    border: gainsboro 1px solid;
+    width: 400px;
+    height: 50px;
+    margin-top: 20px;
+}
+
+.LinkMarginLeft{
+    margin-left: 225px;
+    margin-top: 20px;
+}
+
+.black{
+    color: black;
+}
+.dotedLine{
+        width: 800px;
+        margin-top:30px;
+        margin-left: 225px;
+        border-top: dotted 2px;
+}
+.fullLine{
+    border: solid 2px;
+    margin-top: 85px;
+}
+.eyesCenterLINR{
+    margin-left: 630px;
+    margin-top: -35px;
+}

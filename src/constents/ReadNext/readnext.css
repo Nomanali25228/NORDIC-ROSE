@@ -1,0 +1,59 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.textCenter{
+    text-align: center;
+    margin-top: 20px;
+}
+.cardFlex{
+    display: flex;
+    margin-left: 200px;
+    margin-top: 30px;
+}
+.cardFlexs{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 200px;
+}
+.inputBox{
+    height: 210px;
+    width: 500px;
+    border-top: solid 6px;
+    border-left: solid 1px;
+    border-right: solid 1px;
+    border-bottom: solid 1px;
+    margin-left: 400px;
+    margin-top: 35px;
+}
+.underBOX{
+    text-align: center;
+    margin-top: 20px;
+}
+.UnderBoxPTage{
+    text-align: center;
+    margin-top: 20px;
+}
+.UnderBoxPTage2{
+    text-align: center;  
+}
+.inputflex{
+    display: flex;
+}
+.inputset{
+    width: 290px;
+    height: 34px;
+    outline: none;
+    margin-top: 35px;
+    margin-left: 48px;
+    padding-left: 10px;
+}
+.button{
+    height: 34px;
+    width: 80px;
+    margin-top: 35px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}

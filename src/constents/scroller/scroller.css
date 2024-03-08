@@ -1,0 +1,27 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.h1Tage{
+    text-align: center;
+    margin-top: 35px;
+}
+
+.h1Tage2{
+    text-align: center;
+    margin-top: -7px;
+}
+.pTage{
+    text-align: center;
+    margin-top: 25px;
+}
+.pTage2{
+    text-align: center;
+    margin-top: 5px;
+}
+.sevenPic{
+    margin-top: 50px;
+    width: 100%;
+    height: 600px;
+}
